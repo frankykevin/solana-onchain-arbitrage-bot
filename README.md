@@ -121,7 +121,7 @@ Access metrics at `http://localhost:9090/metrics`:
    - Updated documentation
 ## 🤝 Connect With Me
 For questions, custom implementations, or consulting services:
-- 📱 Telegram: [@insionCEO](https://t.me/insionCEO)
+- 📱 Telegram: [@frankiekevin](https://t.me/frankiekevin)
 💼 Commercial support available
 
 
